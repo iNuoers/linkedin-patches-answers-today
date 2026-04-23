@@ -1,0 +1,437 @@
+{
+  "puzzle_number": 33,
+  "date": "2026-04-19",
+  "date_slug": "april-19-2026",
+  "grid": {
+    "rows": 7,
+    "cols": 7,
+    "regions": [
+      {
+        "id": 0,
+        "color": "#0891B2",
+        "clueNumber": 12,
+        "clueShape": "UNKNOWN",
+        "cells": [
+          {
+            "row": 0,
+            "col": 0,
+            "borders": [
+              "top",
+              "left"
+            ]
+          },
+          {
+            "row": 0,
+            "col": 1,
+            "borders": [
+              "top"
+            ]
+          },
+          {
+            "row": 0,
+            "col": 2,
+            "borders": [
+              "top"
+            ]
+          },
+          {
+            "row": 0,
+            "col": 3,
+            "borders": [
+              "top",
+              "right"
+            ]
+          },
+          {
+            "row": 1,
+            "col": 0,
+            "borders": [
+              "left"
+            ]
+          },
+          {
+            "row": 1,
+            "col": 1,
+            "borders": []
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "borders": []
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "borders": [
+              "right"
+            ]
+          },
+          {
+            "row": 2,
+            "col": 0,
+            "borders": [
+              "bottom",
+              "left"
+            ]
+          },
+          {
+            "row": 2,
+            "col": 1,
+            "borders": [
+              "bottom"
+            ]
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "borders": [
+              "bottom"
+            ]
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "borders": [
+              "right",
+              "bottom"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "color": "#15803D",
+        "clueNumber": null,
+        "clueShape": "VERTICAL_RECT",
+        "cells": [
+          {
+            "row": 3,
+            "col": 0,
+            "borders": [
+              "top",
+              "left"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 1,
+            "borders": [
+              "top",
+              "right"
+            ]
+          },
+          {
+            "row": 4,
+            "col": 0,
+            "borders": [
+              "left"
+            ]
+          },
+          {
+            "row": 4,
+            "col": 1,
+            "borders": [
+              "right"
+            ]
+          },
+          {
+            "row": 5,
+            "col": 0,
+            "borders": [
+              "left"
+            ]
+          },
+          {
+            "row": 5,
+            "col": 1,
+            "borders": [
+              "right"
+            ]
+          },
+          {
+            "row": 6,
+            "col": 0,
+            "borders": [
+              "bottom",
+              "left"
+            ]
+          },
+          {
+            "row": 6,
+            "col": 1,
+            "borders": [
+              "right",
+              "bottom"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "color": "#BE123C",
+        "clueNumber": null,
+        "clueShape": "VERTICAL_RECT",
+        "cells": [
+          {
+            "row": 3,
+            "col": 2,
+            "borders": [
+              "top",
+              "right",
+              "left"
+            ]
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "borders": [
+              "right",
+              "bottom",
+              "left"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "color": "#3B82F6",
+        "clueNumber": 10,
+        "clueShape": "UNKNOWN",
+        "cells": [
+          {
+            "row": 5,
+            "col": 2,
+            "borders": [
+              "top",
+              "left"
+            ]
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "borders": [
+              "top"
+            ]
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "borders": [
+              "top"
+            ]
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "borders": [
+              "top"
+            ]
+          },
+          {
+            "row": 5,
+            "col": 6,
+            "borders": [
+              "top",
+              "right"
+            ]
+          },
+          {
+            "row": 6,
+            "col": 2,
+            "borders": [
+              "bottom",
+              "left"
+            ]
+          },
+          {
+            "row": 6,
+            "col": 3,
+            "borders": [
+              "bottom"
+            ]
+          },
+          {
+            "row": 6,
+            "col": 4,
+            "borders": [
+              "bottom"
+            ]
+          },
+          {
+            "row": 6,
+            "col": 5,
+            "borders": [
+              "bottom"
+            ]
+          },
+          {
+            "row": 6,
+            "col": 6,
+            "borders": [
+              "right",
+              "bottom"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "color": "#DB2777",
+        "clueNumber": null,
+        "clueShape": "VERTICAL_RECT",
+        "cells": [
+          {
+            "row": 3,
+            "col": 3,
+            "borders": [
+              "top",
+              "right",
+              "left"
+            ]
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "borders": [
+              "right",
+              "bottom",
+              "left"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "color": "#8B5CF6",
+        "clueNumber": null,
+        "clueShape": "VERTICAL_RECT",
+        "cells": [
+          {
+            "row": 0,
+            "col": 4,
+            "borders": [
+              "top",
+              "right",
+              "left"
+            ]
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "borders": [
+              "right",
+              "left"
+            ]
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "borders": [
+              "right",
+              "left"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 4,
+            "borders": [
+              "right",
+              "left"
+            ]
+          },
+          {
+            "row": 4,
+            "col": 4,
+            "borders": [
+              "right",
+              "bottom",
+              "left"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "color": "#CA8A04",
+        "clueNumber": null,
+        "clueShape": "VERTICAL_RECT",
+        "cells": [
+          {
+            "row": 0,
+            "col": 5,
+            "borders": [
+              "top",
+              "left"
+            ]
+          },
+          {
+            "row": 0,
+            "col": 6,
+            "borders": [
+              "top",
+              "right"
+            ]
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "borders": [
+              "left"
+            ]
+          },
+          {
+            "row": 1,
+            "col": 6,
+            "borders": [
+              "right"
+            ]
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "borders": [
+              "left"
+            ]
+          },
+          {
+            "row": 2,
+            "col": 6,
+            "borders": [
+              "right"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "borders": [
+              "left"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 6,
+            "borders": [
+              "right"
+            ]
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "borders": [
+              "bottom",
+              "left"
+            ]
+          },
+          {
+            "row": 4,
+            "col": 6,
+            "borders": [
+              "right",
+              "bottom"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

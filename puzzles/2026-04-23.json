@@ -1,0 +1,358 @@
+{
+  "puzzle_number": 37,
+  "date": "2026-04-23",
+  "date_slug": "april-23-2026",
+  "grid": {
+    "rows": 6,
+    "cols": 6,
+    "regions": [
+      {
+        "id": 0,
+        "color": "#EF6C00",
+        "clueNumber": 4,
+        "clueShape": "SQUARE",
+        "cells": [
+          {
+            "row": 0,
+            "col": 0,
+            "borders": [
+              "top",
+              "left"
+            ]
+          },
+          {
+            "row": 0,
+            "col": 1,
+            "borders": [
+              "top",
+              "right"
+            ]
+          },
+          {
+            "row": 1,
+            "col": 0,
+            "borders": [
+              "bottom",
+              "left"
+            ]
+          },
+          {
+            "row": 1,
+            "col": 1,
+            "borders": [
+              "bottom",
+              "right"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "color": "#E40101",
+        "clueNumber": 3,
+        "clueShape": "VERTICAL_RECT",
+        "cells": [
+          {
+            "row": 0,
+            "col": 2,
+            "borders": [
+              "top",
+              "left",
+              "right"
+            ]
+          },
+          {
+            "row": 1,
+            "col": 2,
+            "borders": [
+              "left",
+              "right"
+            ]
+          },
+          {
+            "row": 2,
+            "col": 2,
+            "borders": [
+              "bottom",
+              "left",
+              "right"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "color": "#7C4DFF",
+        "clueNumber": 9,
+        "clueShape": "SQUARE",
+        "cells": [
+          {
+            "row": 0,
+            "col": 3,
+            "borders": [
+              "top",
+              "left"
+            ]
+          },
+          {
+            "row": 0,
+            "col": 4,
+            "borders": [
+              "top"
+            ]
+          },
+          {
+            "row": 0,
+            "col": 5,
+            "borders": [
+              "top",
+              "right"
+            ]
+          },
+          {
+            "row": 1,
+            "col": 3,
+            "borders": [
+              "left"
+            ]
+          },
+          {
+            "row": 1,
+            "col": 4,
+            "borders": []
+          },
+          {
+            "row": 1,
+            "col": 5,
+            "borders": [
+              "right"
+            ]
+          },
+          {
+            "row": 2,
+            "col": 3,
+            "borders": [
+              "bottom",
+              "left"
+            ]
+          },
+          {
+            "row": 2,
+            "col": 4,
+            "borders": [
+              "bottom"
+            ]
+          },
+          {
+            "row": 2,
+            "col": 5,
+            "borders": [
+              "bottom",
+              "right"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "color": "#0097A7",
+        "clueNumber": 4,
+        "clueShape": "UNKNOWN",
+        "cells": [
+          {
+            "row": 2,
+            "col": 0,
+            "borders": [
+              "top",
+              "left"
+            ]
+          },
+          {
+            "row": 2,
+            "col": 1,
+            "borders": [
+              "top",
+              "right"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 0,
+            "borders": [
+              "bottom",
+              "left"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 1,
+            "borders": [
+              "bottom",
+              "right"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "color": "#C49000",
+        "clueNumber": 6,
+        "clueShape": "VERTICAL_RECT",
+        "cells": [
+          {
+            "row": 3,
+            "col": 2,
+            "borders": [
+              "top",
+              "left"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 3,
+            "borders": [
+              "top",
+              "right"
+            ]
+          },
+          {
+            "row": 4,
+            "col": 2,
+            "borders": [
+              "left"
+            ]
+          },
+          {
+            "row": 4,
+            "col": 3,
+            "borders": [
+              "right"
+            ]
+          },
+          {
+            "row": 5,
+            "col": 2,
+            "borders": [
+              "bottom",
+              "left"
+            ]
+          },
+          {
+            "row": 5,
+            "col": 3,
+            "borders": [
+              "bottom",
+              "right"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "color": "#00A651",
+        "clueNumber": 2,
+        "clueShape": "UNKNOWN",
+        "cells": [
+          {
+            "row": 3,
+            "col": 4,
+            "borders": [
+              "top",
+              "bottom",
+              "left"
+            ]
+          },
+          {
+            "row": 3,
+            "col": 5,
+            "borders": [
+              "top",
+              "bottom",
+              "right"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "color": "#00AFFF",
+        "clueNumber": 4,
+        "clueShape": "SQUARE",
+        "cells": [
+          {
+            "row": 4,
+            "col": 0,
+            "borders": [
+              "top",
+              "left"
+            ]
+          },
+          {
+            "row": 4,
+            "col": 1,
+            "borders": [
+              "top",
+              "right"
+            ]
+          },
+          {
+            "row": 5,
+            "col": 0,
+            "borders": [
+              "bottom",
+              "left"
+            ]
+          },
+          {
+            "row": 5,
+            "col": 1,
+            "borders": [
+              "bottom",
+              "right"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "color": "#E91E63",
+        "clueNumber": 4,
+        "clueShape": "SQUARE",
+        "cells": [
+          {
+            "row": 4,
+            "col": 4,
+            "borders": [
+              "top",
+              "left"
+            ]
+          },
+          {
+            "row": 4,
+            "col": 5,
+            "borders": [
+              "top",
+              "right"
+            ]
+          },
+          {
+            "row": 5,
+            "col": 4,
+            "borders": [
+              "bottom",
+              "left"
+            ]
+          },
+          {
+            "row": 5,
+            "col": 5,
+            "borders": [
+              "bottom",
+              "right"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
