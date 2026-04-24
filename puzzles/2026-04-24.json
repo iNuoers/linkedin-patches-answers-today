@@ -1,0 +1,439 @@
+{
+    "puzzle_number": 38,
+    "date_slug": "april-24-2026",
+    "grid": {
+        "rows": 7,
+        "cols": 7,
+        "regions": [
+            {
+                "id": 0,
+                "color": "#E40101",
+                "clueNumber": 18,
+                "clueShape": "UNKNOWN",
+                "clueCellIndex": 1,
+                "hints": "",
+                "cells": [
+                    {
+                        "index": 0,
+                        "row": 0,
+                        "col": 0,
+                        "borders": [
+                            "top",
+                            "left"
+                        ]
+                    },
+                    {
+                        "index": 1,
+                        "row": 0,
+                        "col": 1,
+                        "borders": [
+                            "top"
+                        ]
+                    },
+                    {
+                        "index": 2,
+                        "row": 0,
+                        "col": 2,
+                        "borders": [
+                            "top"
+                        ]
+                    },
+                    {
+                        "index": 3,
+                        "row": 0,
+                        "col": 3,
+                        "borders": [
+                            "top"
+                        ]
+                    },
+                    {
+                        "index": 4,
+                        "row": 0,
+                        "col": 4,
+                        "borders": [
+                            "top"
+                        ]
+                    },
+                    {
+                        "index": 5,
+                        "row": 0,
+                        "col": 5,
+                        "borders": [
+                            "top",
+                            "right"
+                        ]
+                    },
+                    {
+                        "index": 7,
+                        "row": 1,
+                        "col": 0,
+                        "borders": [
+                            "left"
+                        ]
+                    },
+                    {
+                        "index": 8,
+                        "row": 1,
+                        "col": 1,
+                        "borders": []
+                    },
+                    {
+                        "index": 9,
+                        "row": 1,
+                        "col": 2,
+                        "borders": []
+                    },
+                    {
+                        "index": 10,
+                        "row": 1,
+                        "col": 3,
+                        "borders": []
+                    },
+                    {
+                        "index": 11,
+                        "row": 1,
+                        "col": 4,
+                        "borders": []
+                    },
+                    {
+                        "index": 12,
+                        "row": 1,
+                        "col": 5,
+                        "borders": [
+                            "right"
+                        ]
+                    },
+                    {
+                        "index": 14,
+                        "row": 2,
+                        "col": 0,
+                        "borders": [
+                            "bottom",
+                            "left"
+                        ]
+                    },
+                    {
+                        "index": 15,
+                        "row": 2,
+                        "col": 1,
+                        "borders": [
+                            "bottom"
+                        ]
+                    },
+                    {
+                        "index": 16,
+                        "row": 2,
+                        "col": 2,
+                        "borders": [
+                            "bottom"
+                        ]
+                    },
+                    {
+                        "index": 17,
+                        "row": 2,
+                        "col": 3,
+                        "borders": [
+                            "bottom"
+                        ]
+                    },
+                    {
+                        "index": 18,
+                        "row": 2,
+                        "col": 4,
+                        "borders": [
+                            "bottom"
+                        ]
+                    },
+                    {
+                        "index": 19,
+                        "row": 2,
+                        "col": 5,
+                        "borders": [
+                            "bottom",
+                            "right"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "color": "#00AFFF",
+                "clueNumber": null,
+                "clueShape": "VERTICAL_RECT",
+                "clueCellIndex": 20,
+                "hints": "",
+                "cells": [
+                    {
+                        "index": 6,
+                        "row": 0,
+                        "col": 6,
+                        "borders": [
+                            "top",
+                            "left",
+                            "right"
+                        ]
+                    },
+                    {
+                        "index": 13,
+                        "row": 1,
+                        "col": 6,
+                        "borders": [
+                            "left",
+                            "right"
+                        ]
+                    },
+                    {
+                        "index": 20,
+                        "row": 2,
+                        "col": 6,
+                        "borders": [
+                            "bottom",
+                            "left",
+                            "right"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "color": "#00A651",
+                "clueNumber": null,
+                "clueShape": "SQUARE",
+                "clueCellIndex": 28,
+                "hints": "",
+                "cells": [
+                    {
+                        "index": 21,
+                        "row": 3,
+                        "col": 0,
+                        "borders": [
+                            "top",
+                            "left"
+                        ]
+                    },
+                    {
+                        "index": 22,
+                        "row": 3,
+                        "col": 1,
+                        "borders": [
+                            "top"
+                        ]
+                    },
+                    {
+                        "index": 23,
+                        "row": 3,
+                        "col": 2,
+                        "borders": [
+                            "top"
+                        ]
+                    },
+                    {
+                        "index": 24,
+                        "row": 3,
+                        "col": 3,
+                        "borders": [
+                            "top",
+                            "right"
+                        ]
+                    },
+                    {
+                        "index": 28,
+                        "row": 4,
+                        "col": 0,
+                        "borders": [
+                            "left"
+                        ]
+                    },
+                    {
+                        "index": 29,
+                        "row": 4,
+                        "col": 1,
+                        "borders": []
+                    },
+                    {
+                        "index": 30,
+                        "row": 4,
+                        "col": 2,
+                        "borders": []
+                    },
+                    {
+                        "index": 31,
+                        "row": 4,
+                        "col": 3,
+                        "borders": [
+                            "right"
+                        ]
+                    },
+                    {
+                        "index": 35,
+                        "row": 5,
+                        "col": 0,
+                        "borders": [
+                            "left"
+                        ]
+                    },
+                    {
+                        "index": 36,
+                        "row": 5,
+                        "col": 1,
+                        "borders": []
+                    },
+                    {
+                        "index": 37,
+                        "row": 5,
+                        "col": 2,
+                        "borders": []
+                    },
+                    {
+                        "index": 38,
+                        "row": 5,
+                        "col": 3,
+                        "borders": [
+                            "right"
+                        ]
+                    },
+                    {
+                        "index": 42,
+                        "row": 6,
+                        "col": 0,
+                        "borders": [
+                            "bottom",
+                            "left"
+                        ]
+                    },
+                    {
+                        "index": 43,
+                        "row": 6,
+                        "col": 1,
+                        "borders": [
+                            "bottom"
+                        ]
+                    },
+                    {
+                        "index": 44,
+                        "row": 6,
+                        "col": 2,
+                        "borders": [
+                            "bottom"
+                        ]
+                    },
+                    {
+                        "index": 45,
+                        "row": 6,
+                        "col": 3,
+                        "borders": [
+                            "bottom",
+                            "right"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "color": "#0097A7",
+                "clueNumber": 12,
+                "clueShape": "UNKNOWN",
+                "clueCellIndex": 47,
+                "hints": "",
+                "cells": [
+                    {
+                        "index": 25,
+                        "row": 3,
+                        "col": 4,
+                        "borders": [
+                            "top",
+                            "left"
+                        ]
+                    },
+                    {
+                        "index": 26,
+                        "row": 3,
+                        "col": 5,
+                        "borders": [
+                            "top"
+                        ]
+                    },
+                    {
+                        "index": 27,
+                        "row": 3,
+                        "col": 6,
+                        "borders": [
+                            "top",
+                            "right"
+                        ]
+                    },
+                    {
+                        "index": 32,
+                        "row": 4,
+                        "col": 4,
+                        "borders": [
+                            "left"
+                        ]
+                    },
+                    {
+                        "index": 33,
+                        "row": 4,
+                        "col": 5,
+                        "borders": []
+                    },
+                    {
+                        "index": 34,
+                        "row": 4,
+                        "col": 6,
+                        "borders": [
+                            "right"
+                        ]
+                    },
+                    {
+                        "index": 39,
+                        "row": 5,
+                        "col": 4,
+                        "borders": [
+                            "left"
+                        ]
+                    },
+                    {
+                        "index": 40,
+                        "row": 5,
+                        "col": 5,
+                        "borders": []
+                    },
+                    {
+                        "index": 41,
+                        "row": 5,
+                        "col": 6,
+                        "borders": [
+                            "right"
+                        ]
+                    },
+                    {
+                        "index": 46,
+                        "row": 6,
+                        "col": 4,
+                        "borders": [
+                            "bottom",
+                            "left"
+                        ]
+                    },
+                    {
+                        "index": 47,
+                        "row": 6,
+                        "col": 5,
+                        "borders": [
+                            "bottom"
+                        ]
+                    },
+                    {
+                        "index": 48,
+                        "row": 6,
+                        "col": 6,
+                        "borders": [
+                            "bottom",
+                            "right"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
